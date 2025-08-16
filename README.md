@@ -10,6 +10,8 @@ A swarm of GenAI agents + a traceable knowledge graph that reconcile requirement
 | 📰 Follow updates on X | https://x.com/PolyPilotAI |
 | 🔗 Connect on LinkedIn | https://www.linkedin.com/company/polypilotai |
 | ▶️ Subscribe on YouTube | https://www.youtube.com/@polypilotai |
-| 💬 Questions? | moad.kissai@polypilot.ai |
+| 📸 Instagram | https://instagram.com/polypilotai |
+| 📘 Facebook | https://facebook.com/polypilotai |
+| 💬 Questions? | contact@polypilot.ai |
 
-> *Pre-launch • Closed source • All rights reserved.* 
+> *Pre-launch • Closed source • All rights reserved.*
